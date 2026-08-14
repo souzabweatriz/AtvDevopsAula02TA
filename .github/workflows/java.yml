@@ -5,7 +5,7 @@ name: Minha primeira pipeline
 on:
   push:
     branches:
-      - main
+      - master
 
 # Trabalhos que serão executados
 jobs:
